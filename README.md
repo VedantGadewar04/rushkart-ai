@@ -51,10 +51,10 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - View Dashboard               - Insurance Insights Displayed
 
 📱Features: Delivery-Time Risk Intelligence
-🟢 When Partner Goes Online
+🟢 When Partner Goes Online.
 
-- AI assigns profile
-- Weekly insurance policy activated
+- AI assigns profile.
+- Weekly insurance policy activated.
   
 🌦 Real-Time AI Suggestions
 -"Heavy rain expected in your zone in 1 hour"
@@ -72,8 +72,8 @@ Used when system misses disruption:
     -Proof authenticity.
 
 🎯Results:
- ✅ Claim Approved → Instant payout
- ❌ Claim Rejected → Fraud prevention
+ ✅ Claim Approved → Instant payout.
+ ❌ Claim Rejected → Fraud prevention.
 
 🛡 Fraud Detection System
 -📍GPS spoof detection
