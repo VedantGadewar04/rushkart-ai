@@ -56,11 +56,11 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - AI assigns profile.
 - Weekly insurance policy activated.
   
-🌦 Real-Time AI Suggestions:
--"Heavy rain expected in your zone in 1 hour"
--"High traffic --> lower delivery efficiency"
--"Switch zone to maximize earnings"
--"Upgrade coverage for Rs5 this week"
+🌦 Real-Time AI Suggestions: <br>
+-"Heavy rain expected in your zone in 1 hour" <br>
+-"High traffic --> lower delivery efficiency" <br>
+-"Switch zone to maximize earnings" <br>
+-"Upgrade coverage for Rs5 this week" <br>
 
 💬 AI Claim System:
 Used when system misses disruption:
