@@ -54,25 +54,25 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 🟢 When Partner Goes Online.
 - AI assigns profile.
 - Weekly insurance policy activated.
-  
+ <br> 
 🌦 Real-Time AI Suggestions: <br>
 - "Heavy rain expected in your zone in 1 hour" <br>
 - "High traffic --> lower delivery efficiency" <br>
 - "Switch zone to maximize earnings" <br>
 - "Upgrade coverage for Rs5 this week" <br>
-
-💬 AI Claim System: <br> -Used when system misses disruption:
-1. User reports via chat
-2. Uploads proof 📸
-3. AI validates:
-    -NLP understanding.
-    -Location match.
-    -Proof authenticity.
-
+<br>
+💬 AI Claim System: <br> -Used when system misses disruption: <br>
+1. User reports via chat <br>
+2. Uploads proof 📸  <br>
+3. AI validates: <br>
+           💠NLP understanding.<br>
+           💠Location match.  <br>
+           💠Proof authenticity.
+<br> <br>
 🎯Results: <br>
  ✅ Claim Approved → Instant payout. <br>
  ❌ Claim Rejected → Fraud prevention.
-
+<br> <br>
 🛡 Fraud Detection System: <br>
 -📍GPS spoof detection <br>
 -🔁Duplicate claim prevention <br>
@@ -84,7 +84,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 🧠 AI/ML <br>
 -Python (Scikit-learn, TensorFlow) <br>
 -NLP Models <br>
--Anomaly Detection <br>
+-Anomaly Detection 
 
 🌐 Backend <br>
 -Node.js / FastAPI <br>
@@ -93,7 +93,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 📱 Frontend <br>
 -React / Flutter
 
-🔗 Integrations <br> 
+🔗 Integrations 
 -Weather API <br>
 -AQI API <br>
 -Traffic APIs (Mock) <br>
@@ -104,16 +104,16 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 -Firebase <br>
 -Docker <br>
 
-🌟 Unique Value Proposition
- ⚡ Fully automated insurance
- 🤖 AI fallback claim validation
- 📍 Hyperlocal intelligence
- 🔮 Predict-before-loss system
+🌟 Unique Value Proposition: <br>
+  ⚡ Fully automated insurance  <br>
+  🤖 AI fallback claim validation  <br>
+  📍 Hyperlocal intelligence  <br>
+  🔮 Predict-before-loss system  
 
-🚀 Future Scope
--Real delivery platform integrations
--Computer vision validation
--Blockchain-based claims
+🚀 Future Scope: <br>
+-Real delivery platform integrations  <br>
+-Computer vision validation  <br>
+-Blockchain-based claims  <br>
 -Nationwide scaling
 
 ---
