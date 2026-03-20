@@ -51,7 +51,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - Enter Delivery Zone          - Hyperlocal Risk Analysis
 - View Dashboard               - Insurance Insights Displayed
 
-📱Features: Delivery-Time Risk Intelligence:
+📱Features: Delivery-Time Risk Intelligence: <br>
 🟢 When Partner Goes Online.
 - AI assigns profile.
 - Weekly insurance policy activated.
