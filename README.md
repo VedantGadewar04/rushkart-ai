@@ -42,16 +42,15 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - Proof verification
 - Prevents fraud and false claims
 
-🧩Rushkart Ecosystem (Simulation Platform):
-
+🧩Rushkart Ecosystem (Simulation Platform): <br>
 -A simulated delivery platform built to demonstrate real-world integration.
- Partner Action                System Response
+                
 - Go online                    - AI Risk Engine Activate
 - Accept Order                 - Real-time Monitoring Starts
 - Enter Delivery Zone          - Hyperlocal Risk Analysis
 - View Dashboard               - Insurance Insights Displayed
 
-📱Features: Delivery-Time Risk Intelligence: <br><br>
+📱Features: <br> Delivery-Time Risk Intelligence: <br><br>
 🟢 When Partner Goes Online.
 - AI assigns profile.
 - Weekly insurance policy activated.
@@ -62,8 +61,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - "Switch zone to maximize earnings" <br>
 - "Upgrade coverage for Rs5 this week" <br>
 
-💬 AI Claim System: 
-  Used when system misses disruption:
+💬 AI Claim System: <br> -Used when system misses disruption:
 1. User reports via chat
 2. Uploads proof 📸
 3. AI validates:
@@ -71,40 +69,40 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
     -Location match.
     -Proof authenticity.
 
-🎯Results:
- ✅ Claim Approved → Instant payout.
+🎯Results: <br>
+ ✅ Claim Approved → Instant payout. <br>
  ❌ Claim Rejected → Fraud prevention.
 
-🛡 Fraud Detection System:
--📍GPS spoof detection
--🔁Duplicate claim prevention
--🧠Behavioral anomaly detection
--📸Image Proof validation
+🛡 Fraud Detection System: <br>
+-📍GPS spoof detection <br>
+-🔁Duplicate claim prevention <br>
+-🧠Behavioral anomaly detection <br>
+-📸Image Proof validation 
+<br> <br>
 
-🧱 Tech Stack:
-🧠 AI/ML
--Python (Scikit-learn, TensorFlow)
--NLP Models
--Anomaly Detection
+🧱 Tech Stack: <br> 
+🧠 AI/ML <br>
+-Python (Scikit-learn, TensorFlow) <br>
+-NLP Models <br>
+-Anomaly Detection <br>
 
-🌐 Backend
--Node.js / FastAPI
+🌐 Backend <br>
+-Node.js / FastAPI <br>
 -REST APIs
 
-📱 Frontend
+📱 Frontend <br>
 -React / Flutter
 
-🔗 Integrations
+🔗 Integrations <br> 
+-Weather API <br>
+-AQI API <br>
+-Traffic APIs (Mock) <br>
+-Razorpay (Sandbox) <br>
 
--Weather API
--AQI API
--Traffic APIs (Mock)
--Razorpay (Sandbox)
-
-☁️ Infrastructure
--AWS / GCP
--Firebase
--Docker
+☁️ Infrastructure <br>
+-AWS / GCP <br>
+-Firebase <br>
+-Docker <br>
 
 🌟 Unique Value Proposition
  ⚡ Fully automated insurance
