@@ -42,37 +42,6 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - Proof verification
 - Prevents fraud and false claims
 
----
-
-## ⚙️ System Workflow  
-
-```mermaid
-flowchart TD
-
-A[Partner Goes Online] --> B[AI Risk Engine]
-B --> C[Weekly Policy Assigned]
-
-C --> D[Monitoring System]
-D --> E{Disruption?}
-
-E -->|Yes| F[Trigger Activated]
-F --> G[Auto Claim]
-G --> H[Instant Payout]
-
-E -->|No| I[User Chat Claim]
-I --> J[Upload Proof]
-J --> K[AI Validation]
-
-K --> L{Valid?}
-L -->|Yes| H
-L -->|No| M[Reject]
-
-K --> N[Fraud Detection]
-N --> K
-
-H --> O[Dashboard]
-M --> O
-
 🧩Rushkart Ecosystem (Simulation Platform)
 we built a simulated delivery platform (Rushkart) to
 demonstrate real-world integration without relying on external proprietary APIs.
@@ -148,6 +117,38 @@ Used when system misses disruption:
 -Computer vision validation
 -Blockchain-based claims
 -Nationwide scaling
+
+---
+
+## ⚙️ System Workflow  
+
+```mermaid
+flowchart TD
+
+A[Partner Goes Online] --> B[AI Risk Engine]
+B --> C[Weekly Policy Assigned]
+
+C --> D[Monitoring System]
+D --> E{Disruption?}
+
+E -->|Yes| F[Trigger Activated]
+F --> G[Auto Claim]
+G --> H[Instant Payout]
+
+E -->|No| I[User Chat Claim]
+I --> J[Upload Proof]
+J --> K[AI Validation]
+
+K --> L{Valid?}
+L -->|Yes| H
+L -->|No| M[Reject]
+
+K --> N[Fraud Detection]
+N --> K
+
+H --> O[Dashboard]
+M --> O
+
 
 
 
