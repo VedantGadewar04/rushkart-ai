@@ -43,9 +43,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - Prevents fraud and false claims
 
 🧩Rushkart Ecosystem (Simulation Platform)
-we built a simulated delivery platform (Rushkart) to
-demonstrate real-world integration without relying on external proprietary APIs.
-Integration Flow
+A simulated delivery platform built to demonstrate real-world integration.
   Partner Action                System Response
 - Go online                    - AI Risk Engine Activate
 - Accept Order                 - Real-time Monitoring Starts
@@ -56,8 +54,8 @@ Integration Flow
 🟢 When Partner Goes Online
 - AI assigns profile
 - Weekly insurance policy activated
+- 
 🌦 Real-Time AI Suggestions
-
 -"Heavy rain expected in your zone in 1 hour"
 -"High traffic --> lower delivery efficiency"
 -"Switch zone to maximize earnings"
