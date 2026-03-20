@@ -42,7 +42,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - Proof verification
 - Prevents fraud and false claims
 
-🧩Rushkart Ecosystem (Simulation Platform)
+🧩Rushkart Ecosystem (Simulation Platform):
 -A simulated delivery platform built to demonstrate real-world integration.
   Partner Action                System Response
 - Go online                    - AI Risk Engine Activate
@@ -50,19 +50,18 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
 - Enter Delivery Zone          - Hyperlocal Risk Analysis
 - View Dashboard               - Insurance Insights Displayed
 
-📱Features: Delivery-Time Risk Intelligence
+📱Features: Delivery-Time Risk Intelligence:
 🟢 When Partner Goes Online.
-
 - AI assigns profile.
 - Weekly insurance policy activated.
   
-🌦 Real-Time AI Suggestions
+🌦 Real-Time AI Suggestions:
 -"Heavy rain expected in your zone in 1 hour"
 -"High traffic --> lower delivery efficiency"
 -"Switch zone to maximize earnings"
 -"Upgrade coverage for Rs5 this week"
 
-💬 AI Claim System
+💬 AI Claim System:
 Used when system misses disruption:
 1. User reports via chat
 2. Uploads proof 📸
@@ -75,13 +74,13 @@ Used when system misses disruption:
  ✅ Claim Approved → Instant payout.
  ❌ Claim Rejected → Fraud prevention.
 
-🛡 Fraud Detection System
+🛡 Fraud Detection System:
 -📍GPS spoof detection
 -🔁Duplicate claim prevention
 -🧠Behavioral anomaly detection
 -📸Image Proof validation
 
-🧱 Tech Stack
+🧱 Tech Stack:
 🧠 AI/ML
 -Python (Scikit-learn, TensorFlow)
 -NLP Models
