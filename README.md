@@ -108,7 +108,7 @@ RushKart AI introduces a **Hybrid Parametric Insurance Model**:
   ⚡ Fully automated insurance  <br>
   🤖 AI fallback claim validation  <br>
   📍 Hyperlocal intelligence  <br>
-  🔮 Predict-before-loss system  
+  🔮 Predict-before-loss system  <br>
 
 🚀 Future Scope: <br>
 -Real delivery platform integrations  <br>
