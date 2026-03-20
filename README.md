@@ -67,9 +67,10 @@ Used when system misses disruption:
 1. User reports via chat
 2. Uploads proof 📸
 3. AI validates:
-    -NLP understanding
-    -Location match
-    -Proof authenticity
+    -NLP understanding.
+    -Location match.
+    -Proof authenticity.
+
 🎯Results:
  ✅ Claim Approved → Instant payout
  ❌ Claim Rejected → Fraud prevention
